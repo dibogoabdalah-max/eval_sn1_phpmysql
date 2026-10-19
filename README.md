@@ -65,8 +65,8 @@ Le rendu se fait sur **votre fork**. Avant la date limite :
 1. Complétez ce bloc dans le `README.md` (remplacez les `...`) :
 
    ```text
-   Nom       : ...
-   Prénom    : ...
+   Nom       : DIBOGO ...
+   Prénom    : .Abdalah..
    ```
 
    > La correction se fera avec les comptes de test fournis (`admin@agenda.fr` et `user@agenda.fr`) : ne les supprimez pas et ne changez pas leur mot de passe.
